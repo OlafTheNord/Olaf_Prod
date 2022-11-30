@@ -23,3 +23,4 @@ urlpatterns = [
     path('about/', include('main.urls')),
     path('login/', include('main.urls')),
 ]
+# git test
